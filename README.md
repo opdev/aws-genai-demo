@@ -1,6 +1,6 @@
 # Employee Productivity GenAI Assistant Demo
 
-Clone the repository [Employee Producitivty Application](https://github.com/opdev/improve-employee-productivity-using-genai/tree/demo)
+Clone the repository [Employee Producitivty Application](https://github.com/opdev/aws-genai-demo.git)
 
 # Setting up Hugging Face & MinIO
 
@@ -177,7 +177,7 @@ Disclaimer: This application is a currently a chat only enabled version of the A
 
 1. Follow along with the [README](/aws-genai-demo/appui/README.md) and install all the require prerequisites.
 
-2. In the the app.py, located in **/improve-employee-productivity-using-genai/backend/src/websocket/chat/app.py**
+2. In the the app.py, located in **/appui/backend/src/websocket/chat/app.py**
 
     Change the ChatOpenAI model base_url to the inference endpoint you saved in the step above and add "/v1" to the end of the url
 
