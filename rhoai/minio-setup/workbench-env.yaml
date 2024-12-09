@@ -1,0 +1,11 @@
+---
+kind: Secret
+apiVersion: v1
+metadata:
+  name: aws-use-case-wb-env
+data:
+  AWS_ACCESS_KEY_ID: bWtvbmc=
+  AWS_SECRET_ACCESS_KEY: bWFubmExMjM=
+  AWS_DEFAULT_REGION: dXMtZWFzdC0x
+  AWS_S3_ENDPOINT: aHR0cHM6Ly9taW5pby1hcGktbWFubmEtYXdzLmFwcHMub3NhaS5vcGVuc2hpZnRwYXJ0bmVybGFicy5jb20=
+  AWS_S3_BUCKET: bW9kZWxz
